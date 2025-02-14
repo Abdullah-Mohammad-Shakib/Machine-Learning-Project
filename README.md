@@ -63,9 +63,9 @@ Step 9: We then used the Logistic Regression model to forecast the unlabeled con
 
 
 **Output Content:**
-
-  (output ss)
-
+![positive](https://github.com/user-attachments/assets/6dcb43fb-497d-4ebe-adcf-65dba37148f7)
+![negative](https://github.com/user-attachments/assets/ec749991-a358-4e9e-99ca-7903c5121aca)
+![neutral](https://github.com/user-attachments/assets/5e30e0c7-c737-44d4-ae2a-f02f06346475)
 
 **Conclusion**
 This project has been conducted to offer an approach for classifying multi sentimental coments writing in the English alphabet. With the experiment's findings, we could classify the original positive,negative and neutral comments English alphabets. With all of the conclusions of this experiment, it is possible to infer that the approach is an efficient and accurate method for classifying the cricket sentimental comments in English alphabets during cricket match. 
