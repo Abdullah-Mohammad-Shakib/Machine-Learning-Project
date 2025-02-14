@@ -9,12 +9,13 @@ The primary aim of this project is to develop and evaluate various machine learn
 
 We gathered data from online facebook comment box during India vs Australia final cricket match which are witten in English alphabet from social media platforms.  Currently our dataset has around 50062 comments, with two content types review_text and lable. Our dataset distributed in Positive, Negative and Neutal.
 
-   (dataset)
+![dataset](https://github.com/user-attachments/assets/f32e1d5a-1bf9-40c6-a307-f71d71882466)
+
 
 **Sample of dataset**
 
+![ggg](https://github.com/user-attachments/assets/58ec30bc-eafe-486b-8718-db6951b57768)
 
-![dataset](https://github.com/user-attachments/assets/b45beafb-86a3-48c3-b23b-172925c8dd89)
 
 **Approach**
 
