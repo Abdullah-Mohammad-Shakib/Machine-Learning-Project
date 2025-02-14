@@ -21,7 +21,8 @@ We gathered data from online facebook comment box during India vs Australia fina
 We implement machine learning approaches for classifying the cricket comments according to their positive,negative and neutral sentiment. The raw contents contain special characters, e.g., @, #, - Etc., punctuations. At the time of preprocessing, we have to remove these special characters and punctuation. Multi sentimantal comments in English. For example ‘wishing india best’ represent  in positive comment,‘drop prediction powerplay score’ represent  in negative comment, ‘omg wicket’ represent  in neutral comment in English. There is some common words. We also have to remove those common words from the dataset. This can be done by preprocessed the comments. Then we have to extract the features from the comments. Using those extracted features we can train the machine learning models. 
 
 
- (data process model)
+ ![model](https://github.com/user-attachments/assets/185abe7a-e8e4-4da6-a2a4-42bda5b36d7a)
+
 
 
 **For classifying the cricket comments we used the following steps:**
