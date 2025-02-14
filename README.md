@@ -14,6 +14,7 @@ We gathered data from online facebook comment box during India vs Australia fina
 **Sample of dataset**
 
 
+![dataset](https://github.com/user-attachments/assets/b45beafb-86a3-48c3-b23b-172925c8dd89)
 
 **Approach**
 
