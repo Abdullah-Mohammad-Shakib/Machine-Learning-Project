@@ -1,4 +1,4 @@
-# Machine learning-based Cricket comments sentiment analysis written in English.
+# Machine learning-based Cricket Comments Sentiment Analysis in English.
 
 **Problem Statement**
 
@@ -13,7 +13,7 @@ We gathered data from online facebook comment box during India vs Australia fina
 
 **Sample of dataset**
 
-   (sample of data)
+
 
 **Approach**
 
