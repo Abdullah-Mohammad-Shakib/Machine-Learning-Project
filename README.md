@@ -52,7 +52,9 @@ Step 7: We used a test dataset to assess the machine learning models. We plot co
 
 Step 8: Using the evaluated findings, we selected the best machine learning model. The Random Forest model outperformed the other machine learning models for Unigram features. Using the classifier model, we examined a variety of comments written in English. We achieved 86% accuracy using the Random Forest with Unigram feature.
 
-    (table of result)
+
+![vvvvvvv](https://github.com/user-attachments/assets/ed85b4df-e13c-4e5a-ad49-2cc447ec73eb)
+
 
 
 Step 9: We then used the Logistic Regression model to forecast the unlabeled content.
