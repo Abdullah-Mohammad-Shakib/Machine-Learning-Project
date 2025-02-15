@@ -1,5 +1,14 @@
 # Machine learning-based Cricket Comments Sentiment Analysis in English.
 
+**Course Title**:Machine Learning Lab
+
+**Course Code**:CSE-5211
+
+**Author**:Abdullah Mohammad Shakib , Md Jaber Hosssain.
+
+**Course Instructor: Md.Mynoddin**
+Assitant Professor,Department of CSE, Rangamati Science and Technology University.
+
 **Problem Statement**
 
 The primary aim of this project is to develop and evaluate various machine learning models for sentiment analysis of textual data. By leveraging algorithms such as Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), and Naive Bayes, the objective is to classify texts based on their sentiment (positive, negative, neutral). The performance of these models will be compared using metrics such as accuracy, precision, recall, F1 score, and AUC-ROC to determine the most effective model for sentiment classification.  
